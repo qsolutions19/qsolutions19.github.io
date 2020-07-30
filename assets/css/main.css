@@ -2860,6 +2860,9 @@ ul.buttons {
 		.wrapper.style2 {
 			background-color: #f2f2f2;
 			color: #a6a6a6;
+			padding: 0rem 0 0rem 0 ;
+			position: relative;
+			margin: 0;
 		}
 
 			.wrapper.style2 input, .wrapper.style2 select, .wrapper.style2 textarea {
