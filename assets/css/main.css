@@ -59,6 +59,15 @@
 
 /* Containers */
 
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 25%;
+	}
+
+/* Containers */
+
 	.container {
 		margin-left: auto;
 		margin-right: auto;
@@ -2315,9 +2324,11 @@ ul.buttons {
 			width: 100%;
 		}
 
+
 			.image.fit img {
 				width: 100%;
 			}
+
 
 		.image.main {
 			display: block;
