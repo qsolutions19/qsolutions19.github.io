@@ -27,6 +27,11 @@
 		line-height: 1;
 	}
 
+	br {
+   display: block;
+   margin: 10px 0;
+	}
+
 	ol, ul {
 		list-style: none;
 	}
