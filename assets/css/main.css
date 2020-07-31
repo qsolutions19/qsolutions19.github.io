@@ -2639,7 +2639,7 @@ ul.buttons {
 /* Wrapper */
 
 	.wrapper {
-		padding: 6rem 0 4rem 0 ; 
+		padding: 6rem 0 4rem 0 ;
 		position: relative;
 		margin: 0;
 		/* padding-top: 60px;
@@ -2952,7 +2952,7 @@ ul.buttons {
 				.wrapper.style2 input[type="button"].special,
 				.wrapper.style2 button.special,
 				.wrapper.style2 .button.special {
-					background-color: #8a4680;
+					background-color: #663366; 
 					color: #ffffff !important;
 				}
 
