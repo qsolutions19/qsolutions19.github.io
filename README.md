@@ -1,2 +1,2 @@
 # qsolutions19.github.io
-MIM Lab 19: Quantum Solutions
+A website for Mentoring in Medicine Lab 19: Quantum Solutions
