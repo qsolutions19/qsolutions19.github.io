@@ -2865,7 +2865,7 @@ ul.buttons {
 			/* background color refers to color of the background page */
 			background-color: #f2f2f2;
 			/* color refers to color of the font */
-			color: #a6a6a6;
+			color: #566573;
 			/* padding: 2rem 2 2rem 2; */
 			position: relative;
 			margin: 0;
@@ -2952,7 +2952,7 @@ ul.buttons {
 				.wrapper.style2 input[type="button"].special,
 				.wrapper.style2 button.special,
 				.wrapper.style2 .button.special {
-					background-color: #663366; 
+					background-color: #663366;
 					color: #ffffff !important;
 				}
 
