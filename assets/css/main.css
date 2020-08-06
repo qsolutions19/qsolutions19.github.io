@@ -2708,7 +2708,12 @@ ul.buttons {
 
 	/* Thumbnails */
 
+	a:hover {
+            text-decoration: none;
+        }
+
 		.thumbnails {
+			text-decoration: none;
 			display: -moz-flex;
 			display: -webkit-flex;
 			display: -ms-flex;
@@ -2722,6 +2727,7 @@ ul.buttons {
 		}
 
 			.thumbnails a {
+				text-decoration: none;
 				-moz-transition: all 0.2s ease;
 				-webkit-transition: all 0.2s ease;
 				-ms-transition: all 0.2s ease;
